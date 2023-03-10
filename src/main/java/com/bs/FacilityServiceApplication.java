@@ -11,7 +11,3 @@ public class FacilityServiceApplication {
 	}
 
 }
-// comment added by nikhil
-// comment added by parikshit
-// comment added by nikhil 2
-// comment added by parikshit2
